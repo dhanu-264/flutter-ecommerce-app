@@ -1,0 +1,19 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub-cache/
+
+# Android / iOS
+android/.gradle/
+ios/Pods/
+
+# Node
+backend/node_modules/
+
+# Env
+.env
+
+# Firebase
+google-services.json
+
